@@ -15,7 +15,7 @@
 
 ### 拷贝项目模板
 ``` bash
-$ git clone http://debug.otouzi.com:8876/otouzi/webpack-bootstrap.git
+$ git clone https://github.com/TrojanBox/webpack-bootstrap
 ```
 
 ### 安装依赖模块 [必须安装]
